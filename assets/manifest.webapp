@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "name": "staking-wallet",
+  "description": "",
+  "icons": {
+    "60": "/staking/assets/firefox_app_60x60.png",
+    "128": "/staking/assets/firefox_app_128x128.png",
+    "512": "/staking/assets/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Gil Amran",
+    "url": null
+  }
+}
